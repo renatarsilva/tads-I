@@ -13,7 +13,7 @@ public class Arrays1 {
             media += notas[i];
         }
         media /= notas.length;
-        System.out.println("A mÃŠdia ÃŠ " + media);
+        System.out.println("A média é " + media);
 
     }
 }

@@ -21,7 +21,7 @@ public class Arrays3 {
         System.out.println("Array1: "+array1);
         System.out.println("Array2: "+array2);
         System.out.println("Array3: "+array3);
-        // passa o array para o mÃ©todo preencher
+        // passa o array para o método preencher
         preencher(array1);
         System.out.println(array2[0]);
     }

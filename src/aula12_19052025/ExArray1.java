@@ -27,6 +27,5 @@ public class ExArray1 {
             System.out.println("valor nao encontrado");
         }
         }
-
     }
 }

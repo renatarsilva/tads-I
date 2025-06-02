@@ -9,9 +9,12 @@ public class FutebolArray {
         // variáveis
         int[][] idades;
         double[][] pesos, alturas;
+
         Random rand = new Random();
+
         int qtdTime, qtdJog, qtd18 = 0, mediaIdade = 0;
         double mediaAltura = 0, qtd80 = 0, perc80;
+
         Scanner sc = new Scanner(System.in);
 
         // entrada de dados
